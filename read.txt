@@ -1,0 +1,5 @@
+Hello
+Step 1: Start the server: cd into neon-auth-backend. In terminal node server.js
+step 2: To start the app, cd into neon-auth-frontend. In terminal npm start.
+Downloads:
+npm install express cors pg bcryptjs jsonwebtoken nodemailer dotenv axios framer-motion react react-dom
